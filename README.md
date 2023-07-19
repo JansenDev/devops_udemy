@@ -1,2 +1,2 @@
 # devops_udemy
-Curso Devops, kubernetes, jenkins, sonarQube CI
+Curso Devops CI, kubernetes, jenkins y sonarQube
